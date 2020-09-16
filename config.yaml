@@ -1,0 +1,5 @@
+#Path to chr11 FASTA file
+chr_path: chr11.fa
+
+#Parameters for samtools sort
+sort_params: -m 2G -@ 8
